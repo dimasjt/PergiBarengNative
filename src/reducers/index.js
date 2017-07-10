@@ -1,7 +1,7 @@
-import { combineReducers } from "redux";
+import { combineReducers } from "redux"
 
-import nav from "./nav";
+import nav from "./nav"
 
 export default combineReducers({
   nav,
-});
+})

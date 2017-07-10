@@ -1,9 +1,9 @@
-import React from "react";
+import React from "react"
 import { View, Text, Button } from "react-native"
 
 import {
   NAV_LOGIN,
-} from "../constants";
+} from "../constants"
 
 export default class Main extends React.Component {
   render() {

@@ -1,9 +1,9 @@
-import React from "react";
-import { Provider } from "react-redux";
+import React from "react"
+import { Provider } from "react-redux"
 
-import AppWithNavigationState from "./AppNavigator";
+import AppWithNavigationState from "./AppNavigator"
 
-import store from "./store";
+import store from "./store"
 
 export default () => {
   return (
